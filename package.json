@@ -1,0 +1,25 @@
+{
+  "name": "your-awesome-feed-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaSyromiatnikov/your-awesome-feed-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaSyromiatnikov/your-awesome-feed-bot/issues"
+  },
+  "homepage": "https://github.com/NikitaSyromiatnikov/your-awesome-feed-bot#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.0",
+    "telegraf": "^3.38.0"
+  }
+}
